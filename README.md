@@ -1,4 +1,4 @@
-# Firebase Studio
+# AgriConnect
 
 This is a NextJS project in Firebase Studio.
 
